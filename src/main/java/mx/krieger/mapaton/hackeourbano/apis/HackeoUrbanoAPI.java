@@ -13,7 +13,7 @@ import mx.krieger.mapaton.publicutils.wrappers.RouteStatsWrapper;
 @Api(
 		name = "hackeoUrbanoAPI",
 		canonicalName = "hackeoUrbanoAPI",
-		title = "API fopr Hackeo Urbano",
+		title = "API for Hackeo Urbano",
 		description = "This is the API used by Hackeo Urbano",
 		authLevel = AuthLevel.NONE,
 		namespace = @ApiNamespace(
